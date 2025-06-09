@@ -118,7 +118,7 @@
 | 精簡模型         | 23     | 0.801             | 未提交（Private leaderboard 僅提交融合模型結果）         |
 | 融合模型（Best） | 5000+（全組員 stacking） | 0.837             | Top 3%           |
 
-雖然精簡模型（僅使用 23 個變數）並未提交至 Private leaderboard，但其在 Public leaderboard 上的 Macro F1-score 已達 **0.801**，與最終融合模型（0.833）相差不大。
+雖然精簡模型（僅使用 23 個變數）並未提交至 Private leaderboard，但其在 Public leaderboard 上的 Macro F1-score 已達 **0.801**，與最終融合模型（0.837）相差不大。
 
 ### ⏱ 訓練效率比較
 - 精簡模型訓練時間僅為融合模型的 **1/20**
