@@ -1,6 +1,7 @@
 # 🚀 Soaring Stock Prediction
 
 本專案致力於建構一套能預測「潛在飆股（soaring stocks）」的機器學習系統，重點在於資料處理策略與模型設計。
+📘 詳細資料處理與建模流程請見 👉 [技術報告全文](https://github.com/ILaskira/Soaring-Stock-Prediction-Challenge/blob/main/competition_details.md)
 
 > ⚠️ **注意**：因應主辦單位規範，原始資料無法公開，以下僅說明技術流程與建模方法。
 ---
@@ -41,3 +42,14 @@
 | **0.8366**        | **0.8262**         | Top **3%**        |
 
 > 🎯 模型整體兼顧效能、效率與解釋性，展現出良好的實務應用潛力。
+
+---
+
+## 📖 延伸閱讀與完整報告
+
+更多技術細節、資料處理流程、模型設計邏輯與分析策略，請參考我們的完整技術說明文件：
+
+🔗 [完整建模與分析流程（competition_details.md）](https://github.com/ILaskira/Soaring-Stock-Prediction-Challenge/blob/main/competition_details.md)
+
+> 包含各階段實作邏輯、參數選擇依據、驗證策略與最終成效分析。
+
