@@ -43,6 +43,8 @@
 
 > 🎯 模型整體兼顧效能、效率與解釋性，展現出良好的實務應用潛力。
 
+🔗 [參賽證明（飆股比賽參賽證明）](https://github.com/ILaskira/Soaring-Stock-Prediction-Challenge/blob/main/%E9%A3%86%E8%82%A1%E6%AF%94%E8%B3%BD%E5%8F%83%E8%B3%BD%E8%AD%89%E6%98%8E.jpg)
+
 ---
 
 ## 📖 延伸閱讀與完整報告
